@@ -25,7 +25,7 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+     NSLog(@"woyidinghui zhao dao ni de "); NSLog(@"woyidinghui zhao dao ni de "); NSLog(@"woyidinghui zhao dao ni de ");
 }
 
 @end
