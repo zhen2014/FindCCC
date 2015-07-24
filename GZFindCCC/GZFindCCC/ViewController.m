@@ -17,7 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
    
-    
+    static dispatch_once_t onceToken;
+    dispatch_once(&onceToken, ^{
+        NSLog(@"zhi 有 一次");
+    });
     
     NSLog(@"woyidinghui zhao dao ni de ");
     
