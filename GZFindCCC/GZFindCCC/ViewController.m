@@ -25,7 +25,7 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-     NSLog(@"woyidinghui zhao dao ni de "); NSLog(@"woyidinghui zhao dao ni de "); NSLog(@"woyidinghui zhao dao ni de ");
+     NSLog(@"woyidinghui zhao dao ni de ");
 }
 
 @end
